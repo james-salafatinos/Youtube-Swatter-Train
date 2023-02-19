@@ -8,6 +8,9 @@ The purpose of this side project is to try and "swat" YouTube away. If it comes 
 
 # YouTube Swatter
 
+USE THIS PACKAGE IF YOU JUST WANT TO USE THE APP:
+https://github.com/james-salafatinos/Youtube-Swatter
+
 The high level steps to make this `YouTube Swatter` are:
 1. Create a dataset of images for the model to train on
 2. Label the images with bounding boxes using `Label Studio`
