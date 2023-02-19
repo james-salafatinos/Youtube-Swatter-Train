@@ -7,8 +7,7 @@
 /images
 /data_collection
 /runs
-/training
-yolov8n.pt
+
 # Logs
 logs
 *.log
